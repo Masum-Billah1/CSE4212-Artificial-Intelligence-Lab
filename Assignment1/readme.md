@@ -1,7 +1,7 @@
 # README.md
 
 ## Introduction
-This repository contains code snippets in a Jupyter Notebook (.ipynb) file demonstrating various mathematical functions and their graphical representations using Python libraries such as NumPy and Matplotlib.
+This directory contains code snippets in a Jupyter Notebook (.ipynb) file demonstrating various mathematical functions and their graphical representations using Python libraries such as NumPy and Matplotlib.
 
 ## Contents
 - **Mathematical_Functions.ipynb**: Jupyter Notebook file containing Python code snippets.
