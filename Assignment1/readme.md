@@ -12,7 +12,7 @@ To run the code in the Jupyter Notebook, you need to have Python installed on yo
 
 1. Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 2. Install the required libraries using pip:
-'pip install numpy', 'pip install matplotlib'
+`pip install numpy`, `pip install matplotlib`
 3. Open the Jupyter Notebook file (`Assignment_1.ipynb`) in Jupyter Notebook or JupyterLab.
 4. Execute the code cells by pressing Shift + Enter.
 
